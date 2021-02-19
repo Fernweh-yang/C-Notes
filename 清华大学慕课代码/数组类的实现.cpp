@@ -1,3 +1,4 @@
+// 对应issues中笔记八(2)数组类
 #ifndef ARRAY_H
 #define ARRAY_H
 #include <cassert>
