@@ -1,2 +1,2 @@
 # CPP-Notes
-The basics of C++
+The Place where I make notes for C++
